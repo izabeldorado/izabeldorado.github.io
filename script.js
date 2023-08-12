@@ -2,9 +2,9 @@
 window.onload = function () {
     // Variables
     const IMAGENES = [
-        'img/chenchu.png',
-        'img/belu.png',
-        'img/chenchuybelu.png'
+        'chenchu.png',
+        'belu.png',
+        'chenchuybelu.png'
     ];
     const TIEMPO_INTERVALO_MILESIMAS_SEG = 1000;
     let posicionActual = 0;
